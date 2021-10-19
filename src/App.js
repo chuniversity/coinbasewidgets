@@ -4,6 +4,7 @@ import './App.css';
 import Orderbook from './components/Orderbook';
 import Form from './components/Form';
 
+
 class App extends Component {
   constructor (props) {
     super(props);
@@ -198,7 +199,6 @@ class App extends Component {
     return (
       <div className="App">
         <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
           <h1 className="App-title">Welcome to Coinbase Widgets</h1>
         </header>
         <div className="order-app">
