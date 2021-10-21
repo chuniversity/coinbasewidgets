@@ -10,7 +10,7 @@ https://docs.cloud.coinbase.com/exchange/docs/overview
 
 ## Demo
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](https://github.com/chuniversity/coinbasewidgets/blob/master/coinbasewidgetsgif.gif)
 
 
 ## Directions
