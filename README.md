@@ -12,6 +12,8 @@ https://docs.cloud.coinbase.com/exchange/docs/overview
 
 ![](https://github.com/chuniversity/coinbasewidgets/blob/master/coinbasewidgetsgif.gif | width=100)
 
+<img src="https://github.com/chuniversity/coinbasewidgets/blob/master/coinbasewidgetsgif.gif" width="200" height="400" />
+
 
 
 ## Directions
